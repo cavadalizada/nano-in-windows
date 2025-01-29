@@ -1,5 +1,7 @@
 # nano-in-windows
 
+Requires WSL!
+
 Compile `go build -o nano.exe nano-wrapper.go`
 
 
